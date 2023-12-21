@@ -1,0 +1,1211 @@
+Cmp-Mod V01 Created by PcbNew   date = 12/14/2023 8:02:23 PM
+
+BeginCmp
+TimeStamp = 0066da32-2f8c-4bb6-b9c0-6fff9b66e5ba
+Path = 
+Reference = SW63;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 02459f78-fb8d-45ad-b9f0-aa2c37603fae
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2;
+IdModule  = MountingHole:MountingHole_2.2mm_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 02ac52da-4731-4c9a-a5f1-40c4cf30aa4e
+Path = 
+Reference = SW1;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 0973b66a-7ecc-4d08-980f-506a3804442c
+Path = 
+Reference = SW54;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.50u;
+EndCmp
+
+BeginCmp
+TimeStamp = 0b80b532-85b2-4e8d-b96d-763f9d7016ee
+Path = 
+Reference = SW40;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 0d8fcf8c-4bdc-4501-820b-4f43d918e6b1
+Path = 
+Reference = SW10;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 10417cac-161e-4022-88f8-bb7d681dcf1c
+Path = 
+Reference = SW7;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 1e190475-029c-4927-a518-eb2ae73ed362
+Path = 
+Reference = SW44;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 1e2ee888-549a-42fc-834c-c0f41701a82b
+Path = 
+Reference = SW50;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 1ea358af-b75c-4f99-be46-fc87c0f48eaa
+Path = 
+Reference = SW59;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = 2440ec2d-856e-479b-8125-4d26c6cf0089
+Path = 
+Reference = SW48;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 247832a7-368f-4814-aa0a-99b1e10f77c1
+Path = 
+Reference = SW62;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 286213ae-f2a8-49de-874a-3c700ef3d195
+Path = 
+Reference = SW18;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 35004db8-c707-4bbd-878d-daf561e4c414
+Path = 
+Reference = SW23;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 3644a7fa-009c-4783-aebc-5d65ebd6e340
+Path = 
+Reference = SW29;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.50u;
+EndCmp
+
+BeginCmp
+TimeStamp = 37c69b92-b056-4f1b-a1bf-f0ce2c68d875
+Path = 
+Reference = SW17;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d763f02-a172-447a-b782-39b617cd2f7f
+Path = 
+Reference = SW20;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 3db4fc1b-454f-4d78-9c05-2500d7befd72
+Path = 
+Reference = SW58;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 42a888e2-74cd-4e4e-afdc-290695aef26b
+Path = 
+Reference = SW38;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 42d4426a-5ac4-4388-957b-fe22ad25c223
+Path = 
+Reference = SW41;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 4659dab1-6a24-4732-8688-044762f87193
+Path = 
+Reference = SW46;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 49599a4c-6f16-46e8-99ff-28dc3e106ace
+Path = 
+Reference = SW61;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.25u;
+EndCmp
+
+BeginCmp
+TimeStamp = 4b46f627-feb5-486a-86e0-7af05b199a13
+Path = 
+Reference = SW15;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 5c7835cc-44ac-4be4-aeca-76f2f51e31f6
+Path = 
+Reference = SW47;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 5f5cf9af-fab0-4ce3-a022-4cdecce1867b
+Path = 
+Reference = SW51;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 65dede8f-7d85-46c6-98e8-06ea20234776
+Path = 
+Reference = SW52;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 67392326-36d1-43c0-bb00-6592c521334e
+Path = 
+Reference = SW37;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 684050df-910f-4093-bec6-4194f446163f
+Path = 
+Reference = SW8;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 6af44f4c-a53f-48ac-a138-92a4e2e6f6ba
+Path = 
+Reference = SW27;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 6eb407f2-e7eb-4dab-8e40-bbf1cc095f75
+Path = 
+Reference = SW30;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.50u;
+EndCmp
+
+BeginCmp
+TimeStamp = 7419e114-c493-4cb6-993e-54eea50dcfff
+Path = 
+Reference = SW4;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 792dca68-1586-49cd-ab69-68c9d015cf5d
+Path = 
+Reference = SW36;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 7e726dd0-1d0e-4514-a03e-ad88ba951d19
+Path = 
+Reference = SW19;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 811db545-dca7-4ac2-a2bf-1a9947cb98d6
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2;
+IdModule  = MountingHole:MountingHole_2.2mm_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 87afc76d-76d2-4e1b-981e-747f21123f70
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2;
+IdModule  = MountingHole:MountingHole_2.2mm_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 89708a36-39f9-4ca3-9731-2b06cb1894a6
+Path = 
+Reference = SW49;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 8ae723c4-5d16-4a81-98de-22b0d905a527
+Path = 
+Reference = SW14;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 8c1ddd18-7385-4456-add5-20cb12f54901
+Path = 
+Reference = SW64;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 971bb5fb-b76e-4f88-92b8-cb6d0143b561
+Path = 
+Reference = SW13;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 9ba17be3-a6ac-469d-b620-c83b4ada0ef3
+Path = 
+Reference = SW6;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 9e632ade-a246-4277-936a-7d63436cc3f8
+Path = 
+Reference = SW31;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 9f6e8753-301c-4493-ae3b-69a7749cada1
+Path = 
+Reference = SW5;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = a2580f45-facb-4a0e-8739-b47b6a9d61f3
+Path = 
+Reference = SW43;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.50u;
+EndCmp
+
+BeginCmp
+TimeStamp = a32b76da-017e-440f-85ea-f6abd1e6485e
+Path = 
+Reference = SW3;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = a39a7bff-3382-4a69-b03e-90d16a50fbc2
+Path = 
+Reference = SW56;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = a51d046a-f22b-481c-bb37-1eb25785a4f7
+Path = 
+Reference = SW16;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.50u;
+EndCmp
+
+BeginCmp
+TimeStamp = a5d97ca4-4b5c-4e88-871d-807bca2bc5d1
+Path = 
+Reference = SW39;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = a7d88b5f-c125-422c-af0c-20a1f950c545
+Path = 
+Reference = SW42;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_2.50u;
+EndCmp
+
+BeginCmp
+TimeStamp = ac8a46f2-f3e9-43b8-818c-adacd02ecd04
+Path = 
+Reference = SW55;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = aeabfe5c-e8bb-43cc-8511-bc6274a2020e
+Path = 
+Reference = SW9;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = b6d312bc-70b0-4cfe-b09c-c9f8ce6d0815
+Path = 
+Reference = SW35;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = be027695-607c-46e1-b332-5a9ea3cd725c
+Path = 
+Reference = SW60;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_7.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = be093602-8445-40ca-85e4-481fe7ffa05b
+Path = 
+Reference = SW11;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = bebb439f-7ed7-4519-938f-6f41894db0da
+Path = 
+Reference = SW12;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = bf2b9c52-8e36-47ff-aa5c-922018396140
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = c05b1a92-38e1-4470-b2be-2a02944764fd
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2;
+IdModule  = MountingHole:MountingHole_2.2mm_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = c5f64e8b-f6c9-41f5-9f5d-be3af26c4f07
+Path = 
+Reference = SW57;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.50u;
+EndCmp
+
+BeginCmp
+TimeStamp = d373e003-77bf-4501-88c3-a434c8d88d19
+Path = 
+Reference = SW34;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = d6cd03b1-f79b-407f-9eae-e60716e32b0c
+Path = 
+Reference = SW33;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = d93f4233-4efb-4a86-851c-9d430d8a5aff
+Path = 
+Reference = SW45;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = da920868-3065-4468-a77e-f618cce1f090
+Path = 
+Reference = SW2;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = ded1fe09-5682-403a-9344-9c977db64090
+Path = 
+Reference = SW24;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = ded9e9fa-af5b-46a6-9c29-8d9f8922eedc
+Path = 
+Reference = SW25;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = df66d628-1e89-44a9-9dbd-a255dddb72f2
+Path = 
+Reference = SW32;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = e5dd0f7f-47f3-4eca-8cb5-d73755464858
+Path = 
+Reference = SW21;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = e99d5ed0-692a-4a59-8e75-1f559b22f8e2
+Path = 
+Reference = SW28;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = eb0975de-4ef9-4b9a-a6b2-56b4f643415d
+Path = 
+Reference = SW26;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = ee904643-418d-4980-b0ee-cefd6b3a725d
+Path = 
+Reference = SW22;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = f3309ece-3072-4a8f-a258-ac24f821cf63
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2;
+IdModule  = MountingHole:MountingHole_2.2mm_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = f8e0e04e-44bd-4044-a069-15db23384078
+Path = 
+Reference = SW53;
+ValeurCmp = SW_Push;
+IdModule  = SW_Cherry_MX_PCB_1.00u;
+EndCmp
+
+BeginCmp
+TimeStamp = 0063eebb-51d9-49ed-9340-557465654702
+Path = 
+Reference = D37;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 02186d53-f4cc-4198-8538-a88673857189
+Path = 
+Reference = D64;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 0278d448-7cc3-47ef-a67c-17d292b5d06d
+Path = 
+Reference = R1;
+ValeurCmp = 22;
+IdModule  = R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 0b2eae3e-7fa2-4776-9722-b13ad3a941b7
+Path = 
+Reference = D62;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 0bf5e73a-6eb5-4467-8448-31c26ebe0f9e
+Path = 
+Reference = RST;
+ValeurCmp = SW_SPST;
+IdModule  = SW_SPST_TL3342;
+EndCmp
+
+BeginCmp
+TimeStamp = 137c8d21-16a1-453d-8d1e-2c2ef4a49e2f
+Path = 
+Reference = D12;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 15862e15-f0c2-46b3-9cb9-8ab3dae340b6
+Path = 
+Reference = C2;
+ValeurCmp = 22p;
+IdModule  = C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 1685358d-30f8-40a6-b635-5232734ccd57
+Path = 
+Reference = D40;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 192e1a3d-b712-4fcc-8582-7827ab8d5b29
+Path = 
+Reference = D2;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 1abeeddb-b773-47ab-af1a-d314dac8878e
+Path = 
+Reference = D57;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 1c8974bc-9be5-4516-9d8a-13a2be671757
+Path = 
+Reference = D22;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 20629c07-9487-4d60-895d-1ec45900252f
+Path = 
+Reference = D11;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 230d5faa-56e0-4e45-9f45-50b5ee4f204b
+Path = 
+Reference = D45;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 251cd421-852c-4fe0-badb-fc5b1a58ca47
+Path = 
+Reference = D47;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 27477f91-cbb1-46f3-9efb-a6c9416d7813
+Path = 
+Reference = D56;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 2be728d4-202c-46cb-b4b5-8066c9251039
+Path = 
+Reference = D34;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 2bf8dd4b-ddb0-4b20-a7a9-1ac98ed3e22b
+Path = 
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 2c2bb151-f01e-44d8-a6e3-4d6da38df486
+Path = 
+Reference = J1;
+ValeurCmp = USB_C_Receptacle_USB2.0;
+IdModule  = USB_C_Receptacle_XKB_U262-16XN-4BVC11;
+EndCmp
+
+BeginCmp
+TimeStamp = 2d63f53e-85bd-4e40-8dc0-049314ad2f5b
+Path = 
+Reference = C4;
+ValeurCmp = 0.1u;
+IdModule  = C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3056e7e4-e76f-49f8-b00a-8f1ca2dc1648
+Path = 
+Reference = D59;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 34202a35-232d-415b-9ed7-c935022b76f1
+Path = 
+Reference = D48;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 3930c5ae-7d8b-4de1-8341-d28ddff71fdf
+Path = 
+Reference = C7;
+ValeurCmp = 4.7u;
+IdModule  = C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 493d9887-8301-4344-8bb1-02348ee84c1c
+Path = 
+Reference = D18;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 4e012f8a-fee0-4b99-9720-6f51287288a3
+Path = 
+Reference = D31;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 52cbe780-dc05-4c26-9d0e-f0853182da02
+Path = 
+Reference = D33;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 53391501-ae8e-4369-a8b2-80f913c4ed71
+Path = 
+Reference = Y1;
+ValeurCmp = Crystal_GND24;
+IdModule  = Crystal_SMD_3225-4Pin_3.2x2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 53f638c2-10d8-4f08-b695-ab519044b990
+Path = 
+Reference = D25;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 58c4f3c9-122f-4cec-89bd-ea313b814fc4
+Path = 
+Reference = C3;
+ValeurCmp = 0.1u;
+IdModule  = C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5b655f5a-7c32-4553-a8ba-e306e8b0e9c5
+Path = 
+Reference = D28;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 5e09c6b7-0413-4c2a-8ea7-14066d36bce4
+Path = 
+Reference = D63;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 6106b5b0-7e72-40a0-84d6-9c25b0ff6829
+Path = 
+Reference = D27;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 65f0cc11-c81e-4750-a653-3b00d787ec02
+Path = 
+Reference = D6;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 6767f556-788b-44aa-bb90-17e9256a8367
+Path = 
+Reference = C1;
+ValeurCmp = 22p;
+IdModule  = C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 6af2e25c-7b7a-452a-8141-a9f3d6093a5f
+Path = 
+Reference = D20;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 6ff74da8-ffb5-470e-ab5b-7954f7c19795
+Path = 
+Reference = D52;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 762eb8ff-3a61-42c1-a375-b5a66a7f7b79
+Path = 
+Reference = D35;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 781856cf-7076-43cd-90b7-79b89559cb22
+Path = 
+Reference = D9;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 7d5e56a0-d88d-4fe6-a918-b01cde1d949c
+Path = 
+Reference = D36;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 7f2ada8c-da0a-45dc-93a6-d6340db51531
+Path = 
+Reference = U1;
+ValeurCmp = ATmega32U4-A;
+IdModule  = TQFP-44_10x10mm_P0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 7f31127d-4233-469e-92c1-141e56e7b8aa
+Path = 
+Reference = D30;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 7f7f0826-bbfa-4acd-a3be-5a33f035312f
+Path = 
+Reference = D10;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 803877c3-9b8d-42b1-a68b-1f9591e97a1d
+Path = 
+Reference = D38;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 89129128-e121-4e53-9062-1a929b0b780c
+Path = 
+Reference = D43;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 8a3ade4c-5c04-403f-81ca-09e58f9ac23d
+Path = 
+Reference = D44;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 8d47e89d-9bfc-4aac-8d98-4c72c5233c0c
+Path = 
+Reference = D58;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 8f69e650-ce86-4331-901e-c7211a45c385
+Path = 
+Reference = D29;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 91d32a61-5f20-4fff-bfcd-426de62d0b4e
+Path = 
+Reference = D41;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 949a2345-b036-4b78-bc59-bbf4d1a38829
+Path = 
+Reference = D55;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 9896caae-10d4-455b-8745-4c1948cbead7
+Path = 
+Reference = D50;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = 9bbaf0f1-2ede-41ee-9992-c40d46141e20
+Path = 
+Reference = D46;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = a9dbe052-738f-48d4-86c9-ff875e98cc19
+Path = 
+Reference = D17;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = acae6154-59ec-4d9f-8371-1436ea5e0a8d
+Path = 
+Reference = D23;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = b2076bab-ab67-4acc-be2a-e182940b4a49
+Path = 
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = b2aff78d-27d5-4daf-abff-f3999e747de2
+Path = 
+Reference = D15;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = b521a592-844e-424a-8428-444d18bba014
+Path = 
+Reference = D8;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = b6bf6517-b351-4fea-a750-c875489ce704
+Path = 
+Reference = D49;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = b7fcf533-6be8-4db4-9aab-1e189bdddc5b
+Path = 
+Reference = D3;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = b95c4b77-0a8a-485e-9f2a-37801034ac28
+Path = 
+Reference = D39;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = bb7a8b83-9750-4243-949d-882488aaae1f
+Path = 
+Reference = D14;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = bcc61b70-611d-4091-9172-fcbdf1f00760
+Path = 
+Reference = D54;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = bf433dd1-6400-40be-898c-0777472c7ecd
+Path = 
+Reference = D42;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = bf78c465-c857-4bee-bbc0-8c0187f5c4d7
+Path = 
+Reference = D13;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = c02f90ca-9498-4588-9f7e-043a73377a76
+Path = 
+Reference = C5;
+ValeurCmp = 0.1u;
+IdModule  = C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = c0a83e90-0ed2-44b8-a82f-f5c1796aa37a
+Path = 
+Reference = D19;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = c3962e26-71cf-443f-b4ef-4a830c89f2f1
+Path = 
+Reference = D1;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = c3b570fc-5192-4a63-910f-048f0e3d8177
+Path = 
+Reference = U2;
+ValeurCmp = TPD2S017;
+IdModule  = SOT-23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = c93453de-f819-4733-8cbe-f8e92b38a513
+Path = 
+Reference = D32;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = cb0730bf-f81e-4ad7-867b-3f7c2abc8d8f
+Path = 
+Reference = D60;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = d9b64a4e-980c-45c7-a572-3871417c5b0b
+Path = 
+Reference = D16;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = db9d871c-f0e5-4c60-b405-b6dbc792cd85
+Path = 
+Reference = R2;
+ValeurCmp = 22;
+IdModule  = R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = dbe5d5ea-b26a-428a-85d2-f73c43f7239d
+Path = 
+Reference = C8;
+ValeurCmp = 1u;
+IdModule  = C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = e3f12059-596f-4ad2-a739-3a6916d023f7
+Path = 
+Reference = C6;
+ValeurCmp = 0.1u;
+IdModule  = C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = e67ec6c2-190a-4ce4-b6ba-9e2936e987d1
+Path = 
+Reference = D7;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = ea8ddac6-4d79-4439-9745-87b29b196b7d
+Path = 
+Reference = D24;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = eedbbdc6-4486-4b90-b625-b13c46e08ec6
+Path = 
+Reference = D61;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = f16a92ae-2f78-4b62-89e7-f813549d68f3
+Path = 
+Reference = D53;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = f3bd6b6e-b266-4f3d-9265-a0fbd30f44a1
+Path = 
+Reference = D26;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = f9e88553-b6d9-40e2-9723-7f37f0f2b37a
+Path = 
+Reference = D5;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = fa14ff8f-7d96-4a0d-b8a5-5e962e28f707
+Path = 
+Reference = D21;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = fd64bb88-3076-4ff2-b99b-eb0eb940d30d
+Path = 
+Reference = D4;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+BeginCmp
+TimeStamp = ff9d70d7-eb71-489f-b3d5-9b58d4703e97
+Path = 
+Reference = D51;
+ValeurCmp = D;
+IdModule  = D_SOD-323F;
+EndCmp
+
+EndListe
